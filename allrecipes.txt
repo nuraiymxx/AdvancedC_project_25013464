@@ -1,0 +1,588 @@
+Pasta; chicken, onion, mushrooms, pasta, milk cream; fry chicken, onion, mushrooms and add milk cream, cook the pasta and mix; maintenance; 40; 500
+soup; chicken ; cook chicken legs for 40 mins and add salt, peper; Halal, Weight-loss; 40; 100
+Grilled Veggie Plate;zucchini,eggplant,pepper,olive oil;grill sliced vegetables with oil;Vegan,Low-calorie,Weight loss;20;180
+Herb Chicken Breast;chicken,garlic,thyme,olive oil;season chicken and bake;Halal,High-protein,Muscle gain;25;350
+Tomato Basil Pasta;pasta,tomato,basil,garlic;boil pasta and mix with tomato sauce;Vegetarian,Maintenance;20;420
+Lentil Vegetable Bowl;lentils,carrot,spinach,onion;boil lentils and mix with sautéed vegetables;Vegan,Gluten-free,Weight loss;30;260
+Greek Yogurt Bowl;yogurt,honey,berries,almonds;combine all ingredients;Vegetarian,High-protein,Muscle gain;5;250
+Baked Cod Fillet;cod,lemon,garlic,butter;bake cod until tender;Halal,Low-calorie,Weight loss;20;190
+Chickpea Rice Plate;chickpeas,rice,tomato,garlic;cook chickpeas and mix with rice;Vegan,Maintenance;25;380
+Spinach Egg Scramble;eggs,spinach,garlic,cheese;scramble eggs with spinach;Vegetarian,High-protein,Muscle gain;10;240
+Roasted Sweet Potatoes;sweet potato,olive oil,salt;roast sweet potatoes;Vegan,Gluten-free,Weight loss;30;210
+Chicken Veggie Soup;chicken,carrot,onion,broth;cook chicken and vegetables;Halal,Low-calorie,Weight loss;40;160
+Carrot Lentil Stew;lentils,carrot,onion,garlic;boil ingredients;Vegan,Low-calorie,Weight loss;35;220
+Garlic Herb Turkey;turkey,garlic,olive oil;roast turkey breast;Halal,High-protein,Muscle gain;40;330
+Vegetable Couscous;couscous,zucchini,carrot,pepper;mix cooked couscous and veggies;Vegetarian,Maintenance;20;380
+Baked Egg Muffins;eggs,spinach,tomato,cheese;bake egg mixture;Vegetarian,High-protein,Muscle gain;18;210
+Tofu Rice Bowl;tofu,rice,soy sauce,peas;pan fry tofu and serve over rice;Vegan,Maintenance;20;350
+Mashed Potatoes;potato,butter,milk;smooth mashed potatoes;Vegetarian,Maintenance;25;270
+Zucchini Soup;zucchini,onion,garlic,broth;boil and blend;Vegan,Low-calorie,Weight loss;25;140
+Chicken Potato Bake;chicken,potato,onion;bake chicken and potatoes;Halal,High-protein,Maintenance;45;520
+Tomato Cucumber Bowl;tomato,cucumber,olive oil;chop and mix;Vegan,Low-calorie,Weight loss;5;110
+Black Bean Plate;black beans,onion,garlic;cook beans and season;Vegan,Gluten-free,Maintenance;25;280
+Eggplant Stew;eggplant,tomato,onion;cook until tender;Vegan,Low-calorie,Weight loss;35;170
+Chicken Carrot Salad;chicken,carrot,lettuce;mix cooked chicken with vegetables;Halal,Low-calorie,Weight loss;15;260
+Mushroom Rice Bowl;rice,mushrooms,butter;cook rice and mushrooms;Vegetarian,Maintenance;20;380
+Lemon Garlic Chicken;chicken,lemon,garlic;cook chicken with lemon;Halal,High-protein,Muscle gain;18;300
+Rice Lentil Pilaf;rice,lentils,onion;cook rice and lentils;Vegan,Maintenance;25;330
+Spinach Rice;rice,spinach,garlic;mix sautéed spinach with rice;Vegan,Low-calorie,Weight loss;20;290
+Vegetable Omelette;eggs,tomato,pepper,onion;cook eggs with vegetables;Vegetarian,High-protein,Muscle gain;10;230
+Almond Oatmeal;oats,almonds,honey,milk;prepare oatmeal;Vegetarian,Maintenance;8;300
+Simple Chicken Grill;chicken,salt,pepper;grill seasoned chicken;Halal,High-protein,Muscle gain;15;320
+Green Salad;lettuce,cucumber,olive oil,lemon;mix vegetables;Vegan,Low-calorie,Weight loss;5;70
+Baked Chickpeas;chickpeas,oil,paprika;roast chickpeas;Vegan,Low-calorie,Weight loss;25;190
+Turkey Chili;turkey,beans,tomato;slow cook ingredients;Halal,High-protein,Muscle gain;45;480
+Tomato Egg Stir Fry;eggs,tomato,garlic;stir fry eggs and tomatoes;Vegetarian,High-protein,Maintenance;12;260
+Crispy Tofu Cubes;tofu,oil,salt;pan fry tofu;Vegan,Gluten-free,Maintenance;15;200
+Chicken Spinach Pasta;pasta,chicken,spinach;mix pasta with chicken;Halal,Maintenance;25;480
+Garlic Potato Wedges;potato,garlic,oil;bake wedges;Vegan,Maintenance;30;240
+Berry Oat Smoothie;berries,oats,milk;blend ingredients;Vegetarian,Low-calorie,Weight loss;3;200
+Vegetable Stew Bowl;potato,carrot,peas,onion;cook vegetables;Vegan,Low-calorie,Weight loss;40;180
+Chicken Rice Soup;chicken,rice,carrot;boil chicken and rice;Halal,Gluten-free,Weight loss;35;210
+Lemon Herb Tofu;tofu,lemon,garlic;bake marinated tofu;Vegan,Low-calorie,Weight loss;25;180
+Avocado Chicken Plate;chicken,avocado,tomato;assemble cooked chicken with avocado;Halal,High-protein,Maintenance;15;420
+Pumpkin Mash;pumpkin,butter;smooth pumpkin mash;Vegetarian,Low-calorie,Weight loss;20;160
+Grilled Fish Fillet;fish,lemon,garlic;grill fish;Halal,Low-calorie,Weight loss;12;200
+Rice Tomato Bowl;rice,tomato,onion;cook rice and mix with tomato;Vegan,Maintenance;18;330
+Chickpea Spinach Curry;chickpeas,spinach,garlic;cook chickpeas with spinach;Vegan,Gluten-free,Maintenance;30;310
+Egg Salad Wrap;eggs,lettuce,yogurt;wrap eggs in tortilla;Vegetarian,High-protein,Maintenance;10;350
+Garlic Lentil Soup;lentils,garlic,broth;boil and blend;Vegan,Low-calorie,Weight loss;28;190
+Lemon Rice Bowl;rice,lemon,olive oil;mix cooked rice with lemon;Vegan,Maintenance;15;320
+Chicken Garlic Skillet;chicken,garlic,oil;pan cook chicken with garlic;Halal,High-protein,Muscle gain;18;350
+Lentil Carrot Mix;lentils,carrot,onion;boil lentils and add diced carrots;Vegan,Weight loss,Low-calorie;30;210
+Tomato Egg Plate;eggs,tomato,oil;stir fry eggs with tomatoes;Vegetarian,Maintenance;10;240
+Veggie Couscous Bowl;couscous,pepper,carrot,oil;cook couscous and mix veggies;Vegetarian,Maintenance;20;390
+Spicy Chickpeas;chickpeas,paprika,oil;roast seasoned chickpeas;Vegan,Weight loss;25;180
+Fish Rice Plate;fish,rice,lemon;grill fish and serve with rice;Halal,Maintenance;25;410
+Zucchini Stir Fry;zucchini,garlic,oil;pan fry zucchini;Vegan,Low-calorie,Weight loss;10;110
+Turkey Spinach Plate;turkey,spinach,garlic;cook turkey and spinach;Halal,High-protein,Muscle gain;20;330
+Rice Omelette;rice,eggs,butter;make omelette with rice;Vegetarian,Maintenance;15;390
+Basic Lentil Soup;lentils,garlic,broth;boil all ingredients;Vegan,Weight loss;25;180
+Chicken Sweet Potato;chicken,sweet potato,oil;bake chicken and potato;Halal,High-protein,Muscle gain;40;480
+Potato Carrot Mix;potato,carrot,oil;roast vegetables;Vegan,Maintenance;30;250
+Yogurt Chicken Bowl;chicken,yogurt,garlic;pan cook chicken with yogurt;Halal,High-protein,Muscle gain;20;370
+Simple Tofu Stir;tofu,garlic,oil;pan fry tofu;Vegan,Maintenance;12;220
+Garlic Broccoli;broccoli,garlic,oil;stir fry broccoli;Vegan,Low-calorie,Weight loss;10;80
+Baked Eggplant;eggplant,oil,salt;roast eggplant;Vegan,Low-calorie,Weight loss;25;120
+Rice Bean Plate;rice,beans,onion;cook rice and beans;Vegan,Maintenance;25;380
+Chicken Veggie Wrap;chicken,tortilla,lettuce;wrap cooked chicken;Halal,High-protein,Muscle gain;12;420
+Spinach Pasta;pasta,spinach,butter;mix cooked pasta with spinach;Vegetarian,Maintenance;18;430
+Chickpea Salad Bowl;chickpeas,cucumber,tomato;mix raw veggies with chickpeas;Vegan,Low-calorie,Weight loss;8;210
+Grilled Turkey Cuts;turkey,lemon,pepper;grill turkey slices;Halal,High-protein,Muscle gain;15;300
+Tomato Potato Stew;potato,tomato,onion;cook into stew;Vegan,Maintenance;30;270
+Egg Rice Bowl;eggs,rice,soy sauce;scramble eggs and serve over rice;Vegetarian,Maintenance;12;350
+Herb Grilled Fish;fish,lemon,thyme;grill fish with herbs;Halal,Low-calorie,Weight loss;15;200
+Spiced Lentils Bowl;lentils,cumin,onion;boil spiced lentils;Vegan,Weight loss;30;200
+Chicken Garlic Rice;chicken,rice,garlic;mix cooked chicken with rice;Halal,Maintenance;22;450
+Veggie Stew;potato,carrot,zucchini;boil vegetables;Vegan,Low-calorie,Weight loss;35;160
+Egg Tomato Wrap;eggs,tortilla,tomato;scramble eggs and wrap;Vegetarian,Maintenance;8;320
+Peanut Tofu Bowl;tofu,peanuts,soy sauce;pan fry tofu and add peanuts;Vegan,Muscle gain;18;430
+Turkey Potato Stir;turkey,potato,onion;cook turkey with potatoes;Halal,Maintenance;22;410
+Carrot Ginger Soup;carrot,ginger,broth;boil and blend;Vegan,Weight loss;20;140
+Chicken Bean Mix;chicken,beans,onion;cook chicken and beans;Halal,High-protein,Muscle gain;25;420
+Rice Spinach Plate;rice,spinach,garlic;mix sautéed spinach with rice;Vegan,Maintenance;20;310
+Grilled Veggie Skewers;pepper,zucchini,onion,oil;grill vegetables;Vegan,Low-calorie,Weight loss;15;150
+Fish Soup;fish,garlic,broth;boil fish in broth;Halal,Weight loss;20;180
+Yogurt Egg Bowl;eggs,yogurt,pepper;mix boiled eggs with yogurt;Vegetarian,Maintenance;8;260
+Mushroom Rice;rice,mushroom,butter;cook rice with mushrooms;Vegetarian,Maintenance;18;390
+Turkey Egg Scramble;eggs,turkey,pepper;scramble eggs with turkey;Halal,High-protein,Muscle gain;10;310
+Sweet Potato Mash;sweet potato,butter;mash cooked potatoes;Vegetarian,Maintenance;20;240
+Lemon Chickpea Bowl;chickpeas,lemon,oil;mix chickpeas with lemon;Vegan,Weight loss;5;180
+Chicken Pepper Plate;chicken,pepper,oil;stir fry chicken and peppers;Halal,High-protein,Muscle gain;15;330
+Tomato Rice;rice,tomato,garlic;cook rice with tomato;Vegan,Maintenance;18;310
+Egg Veggie Stir;eggs,spinach,onion;cook eggs with veggies;Vegetarian,Weight loss;10;210
+Grilled Tofu Squares;tofu,oil,salt;grill tofu;Vegan,Maintenance;12;190
+Chicken Zucchini Mix;chicken,zucchini,garlic;cook chicken with zucchini;Halal,High-protein,Muscle gain;18;360
+Simple Veggie Salad;lettuce,tomato,cucumber,oil;mix salad;Vegan,Low-calorie,Weight loss;5;90
+Lentil Tomato Rice;lentils,rice,tomato;cook lentils and rice together;Vegan,Maintenance;28;350
+Turkey Rice Bowl;turkey,rice,spices;mix cooked turkey with rice;Halal,Muscle gain;22;430
+Fried Egg Potato;eggs,potato,butter;cook eggs over potatoes;Vegetarian,Maintenance;14;390
+Chickpea Pepper Mix;chickpeas,pepper,onion;pan cook vegetables with chickpeas;Vegan,Maintenance;15;260
+Grilled Chicken Cubes;chicken,oil,pepper;grill chicken cubes;Halal,High-protein,Muscle gain;14;330
+Potato Spinach Soup;potato,spinach,broth;boil and blend;Vegan,Weight loss;25;150
+Egg Avocado Bowl;eggs,avocado,salt;combine boiled eggs with avocado;Vegetarian,Maintenance;6;310
+Mushroom Lentils;lentils,mushrooms,garlic;boil lentils and add mushrooms;Vegan,Weight loss;28;240
+Rice Turkey Wrap;rice,turkey,tortilla;wrap rice and turkey;Halal,Maintenance;10;430
+Tomato Chicken Bake;chicken,tomato,oil;bake chicken with tomatoes;Halal,High-protein,Muscle gain;30;380
+Broccoli Fried Rice;rice,broccoli,oil;stir fry rice and broccoli;Vegan,Maintenance;15;350
+Tofu Veggie Curry;tofu,carrot,curry powder;cook tofu with curry vegetables;Vegan,Maintenance;25;390
+Yogurt Rice Bowl;rice,yogurt,salt;mix cooked rice with yogurt;Vegetarian,Maintenance;5;310
+Turkey Lentil Plate;turkey,lentils,garlic;cook turkey with lentils;Halal,High-protein,Muscle gain;25;420
+Carrot Chickpea Stew;chickpeas,carrot,onion;boil into stew;Vegan,Weight loss;30;220
+Chicken Spinach Stir;chicken,spinach,oil;stir fry chicken and spinach;Halal,High-protein,Muscle gain;15;310
+Eggplant Rice Bowl;eggplant,rice,spices;mix cooked eggplant with rice;Vegan,Maintenance;20;330
+Grilled Sweet Potatoes;sweet potato,oil;grill slices;Vegan,Weight loss;20;160
+Bean Veggie Mix;beans,pepper,onion;cook beans and vegetables;Vegan,Maintenance;18;300
+Chicken Curry Lite;chicken,curry powder,yogurt;cook chicken in yogurt curry;Halal,Weight loss;22;290
+Oat Berry Bowl;oats,berries,milk;prepare oatmeal;Vegetarian,Maintenance;8;300
+Tofu Brown Rice;tofu,brown rice,soy sauce;cook tofu over rice;Vegan,Maintenance;25;350
+Garlic Turkey Bake;turkey,garlic,oil;bake turkey;Halal,High-protein,Muscle gain;25;340
+Zucchini Carrot Sauté;zucchini,carrot,garlic;sauté vegetables;Vegan,Weight loss;12;120
+Egg Tomato Rice;eggs,rice,tomato;cook all together;Vegetarian,Maintenance;15;360
+Fish Lentil Plate;fish,lentils,garlic;serve fish over lentils;Halal,Weight loss;30;280
+Chickpea Pita Pocket;chickpeas,pita,lettuce;fill pita with chickpeas;Vegan,Maintenance;10;330
+Potato Scramble;potato,eggs,butter;mix eggs with potatoes;Vegetarian,Maintenance;15;370
+76–100
+Chicken Bean Soup;chicken,beans,broth;boil ingredients;Halal,Weight loss;35;200
+Veggie Rice Stir;rice,pepper,carrot;stir fry veggies with rice;Vegan,Maintenance;18;330
+Lentil Spinach Mix;lentils,spinach,garlic;cook lentils and fold in spinach;Vegan,Weight loss;25;210
+Turkey Egg Bowl;turkey,eggs,pepper;scramble eggs with turkey;Halal,Muscle gain;12;320
+Tomato Basil Egg;eggs,tomato,basil;cook eggs with tomato basil;Vegetarian,Low-calorie,Weight loss;10;180
+Chickpea Rice Wrap;chickpeas,rice,tortilla;wrap ingredients;Vegan,Maintenance;10;350
+Fish Veggie Bake;fish,carrot,zucchini;bake together;Halal,Weight loss;25;220
+Garlic Tofu Bowl;tofu,garlic,oil;pan fry tofu;Vegan,Maintenance;12;200
+Spinach Omelette;eggs,spinach,butter;cook omelette;Vegetarian,Muscle gain;8;240
+Chicken Lemon Rice;chicken,rice,lemon;mix cooked chicken and rice;Halal,Maintenance;22;420
+Carrot Potato Mash;carrot,potato,butter;boil and mash;Vegetarian,Maintenance;25;260
+Zucchini Bean Plate;zucchini,beans,onion;cook zucchini and beans;Vegan,Weight loss;18;230
+Turkey Pepper Stir;turkey,pepper,garlic;stir fry ingredients;Halal,Muscle gain;15;310
+Brown Rice Bowl;brown rice,peas,oil;cook brown rice and add peas;Vegan,Maintenance;30;340
+Chickpea Veg Curry;chickpeas,curry powder,tomato;cook chickpeas in curry sauce;Vegan,Maintenance;25;350
+Egg Rice Stir Fry;rice,eggs,garlic;stir fry together;Vegetarian,Maintenance;10;380
+Lentil Carrot Curry;lentils,carrot,curry;boil lentils with curry;Vegan,Weight loss;30;230
+Chicken Zucchini Wrap;chicken,zucchini,tortilla;wrap ingredients;Halal,Maintenance;15;410
+Grilled Mushroom Plate;mushrooms,oil,pepper;grill mushrooms;Vegan,Low-calorie,Weight loss;10;90
+Yogurt Fruit Bowl;yogurt,banana,berries;mix ingredients;Vegetarian,Maintenance;5;280
+Tofu Lentil Mix;tofu,lentils,garlic;cook tofu with lentils;Vegan,Muscle gain;25;390
+Fish Herb Bowl;fish,parsley,lemon;grill fish;Halal,Weight loss;15;180
+Carrot Egg Scramble;eggs,carrot,butter;scramble eggs with carrots;Vegetarian,Weight loss;10;220
+Chickpea Spinach Rice;chickpeas,spinach,rice;mix all cooked ingredients;Vegan,Maintenance;20;360
+Turkey Tomato Bowl;turkey,tomato,oil;cook turkey and tomato;Halal,Muscle gain;18;330
+Chicken Herb Stir;chicken,herbs,oil;stir fry chicken with herbs;Halal,High-protein,Muscle gain;15;330
+Lentil Garlic Bowl;lentils,garlic,onion;boil lentils and add garlic;Vegan,Weight loss;25;210
+Veggie Millet Plate;millet,carrot,peas;cook millet and mix veggies;Vegan,Maintenance;28;340
+Egg Pepper Mix;eggs,pepper,butter;cook eggs with peppers;Vegetarian,Maintenance;10;260
+Zucchini Lentil Stew;zucchini,lentils,garlic;boil into stew;Vegan,Weight loss;25;190
+Fish Carrot Bake;fish,carrot,oil;bake fish and carrots;Halal,Low-calorie,Weight loss;22;200
+Chicken Bean Bowl;chicken,beans,onion;cook chicken and beans;Halal,High-protein,Muscle gain;20;420
+Spinach Rice Mix;rice,spinach,garlic;mix sautéed spinach with rice;Vegan,Maintenance;18;330
+Tofu Eggplant Bowl;tofu,eggplant,garlic;cook tofu with eggplant;Vegan,Muscle gain;22;380
+Sweet Potato Rice;sweet potato,rice,oil;mix cooked sweet potato and rice;Vegan,Maintenance;25;370
+Turkey Onion Stir;turkey,onion,oil;cook turkey with onions;Halal,High-protein,Muscle gain;14;330
+Lemon Lentil Soup;lentils,lemon,broth;boil lentils and add lemon;Vegan,Weight loss;22;160
+Chickpea Spinach Stir;chickpeas,spinach,garlic;pan cook ingredients;Vegan,Maintenance;15;260
+Mushroom Egg Plate;eggs,mushroom,butter;cook eggs and mushrooms;Vegetarian,Maintenance;12;300
+Rice Pepper Bowl;rice,pepper,peas;cook rice and add veggies;Vegan,Maintenance;18;350
+Chicken Potato Bake;chicken,potato,oil;bake ingredients;Halal,High-protein,Muscle gain;35;440
+Fish Spinach Plate;fish,spinach,garlic;grill fish and mix spinach;Halal,Weight loss;18;220
+Tofu Tomato Stir;tofu,tomato,garlic;cook tofu with tomatoes;Vegan,Maintenance;14;240
+Lentil Rice Curry;lentils,rice,curry;cook together with curry;Vegan,Maintenance;28;380
+Veggie Egg Wrap;eggs,lettuce,tortilla;scramble eggs and wrap;Vegetarian,Maintenance;10;320
+Turkey Carrot Plate;turkey,carrot,oil;cook turkey with carrots;Halal,High-protein,Muscle gain;20;350
+Chickpea Garlic Bake;chickpeas,garlic,oil;bake seasoned chickpeas;Vegan,Weight loss;20;190
+Rice Bean Stir;rice,beans,onion;stir fry beans with rice;Vegan,Maintenance;18;360
+Egg Spinach Stir;eggs,spinach,butter;cook eggs with spinach;Vegetarian,Weight loss;8;230
+Zucchini Mushroom Bowl;zucchini,mushroom,oil;pan fry vegetables;Vegan,Low-calorie,Weight loss;12;160
+Chicken Lentil Plate;chicken,lentils,garlic;cook chicken and lentils;Halal,High-protein,Muscle gain;28;430
+Sweet Potato Chickpeas;sweet potato,chickpeas,pepper;roast ingredients;Vegan,Maintenance;25;350
+Fish Rice Stir;fish,rice,garlic;cook fish with rice;Halal,Maintenance;20;390
+Tofu Ginger Bowl;tofu,ginger,oil;pan fry tofu with ginger;Vegan,Weight loss;15;170
+Veggie Curry Mix;carrot,peas,curry powder;boil vegetables in curry;Vegan,Maintenance;25;300
+Turkey Herb Rice;turkey,rice,parsley;combine turkey and rice;Halal,Muscle gain;22;430
+Lentil Tomato Soup;lentils,tomato,garlic;boil ingredients;Vegan,Weight loss;25;180
+Chickpea Avocado Bowl;chickpeas,avocado,lemon;mix ingredients;Vegan,Maintenance;8;330
+Egg Potato Chips;eggs,potato,oil;fry sliced potato with eggs;Vegetarian,Maintenance;15;390
+Carrot Pea Stir;carrot,peas,oil;stir fry vegetables;Vegan,Low-calorie,Weight loss;10;120
+Chicken Spinach Rice;chicken,rice,spinach;cook and mix all;Halal,High-protein,Muscle gain;25;440
+Grilled Fish Veggies;fish,pepper,zucchini;grill fish and veggies;Halal,Weight loss;20;230
+Tofu Potato Stir;tofu,potato,garlic;cook tofu and potatoes;Vegan,Maintenance;20;350
+Lentil Curry Rice;lentils,rice,curry;cook together;Vegan,Maintenance;28;380
+Veggie Egg Dish;eggs,carrot,onion;pan cook eggs and veggies;Vegetarian,Maintenance;10;280
+Turkey Broccoli Bowl;turkey,broccoli,oil;cook turkey and broccoli;Halal,High-protein,Muscle gain;20;350
+Chickpea Tomato Mix;chickpeas,tomato,garlic;mix ingredients raw or cooked;Vegan,Maintenance;10;240
+Rice Lentil Plate;rice,lentils,oil;cook rice and lentils together;Vegan,Maintenance;28;370
+Egg Herb Omelette;eggs,parsley,oil;make herb omelette;Vegetarian,Low-calorie,Weight loss;6;180
+Zucchini Carrot Rice;zucchini,carrot,rice;cook veggies and mix with rice;Vegan,Maintenance;22;330
+Chicken Lentil Soup;chicken,lentils,broth;boil into soup;Halal,Weight loss;35;210
+Potato Pea Stir;potato,peas,oil;pan fry vegetables;Vegan,Maintenance;15;260
+Fish Bean Plate;fish,beans,garlic;cook fish with beans;Halal,Weight loss;25;240
+Tofu Rice Stir;tofu,rice,soy sauce;mix cooked tofu and rice;Vegan,Maintenance;20;380
+Tomato Veggie Stew;tomato,carrot,potato;boil into stew;Vegan,Weight loss;30;190
+Turkey Tomato Rice;turkey,tomato,rice;cook together;Halal,Muscle gain;25;430
+Lentil Pepper Bowl;lentils,pepper,onion;cook veggies with lentils;Vegan,Maintenance;28;300
+Chickpea Lemon Rice;chickpeas,rice,lemon;mix cooked rice and chickpeas;Vegan,Maintenance;20;330
+Egg Pepper Rice;eggs,rice,pepper;cook eggs with rice;Vegetarian,Maintenance;12;360
+Carrot Lentil Mix;carrot,lentils,oil;cook lentils and carrots;Vegan,Weight loss;25;210
+Chicken Veggie Plate;chicken,carrot,zucchini;pan cook ingredients;Halal,High-protein,Muscle gain;18;370
+Fish Spinach Rice;fish,spinach,rice;mix cooked rice with fish and spinach;Halal,Weight loss;25;280
+Tofu Cabbage Stir;tofu,cabbage,garlic;cook ingredients;Vegan,Low-calorie,Weight loss;12;130
+Rice Tomato Beans;rice,tomato,beans;cook rice with beans and tomatoes;Vegan,Maintenance;25;390
+Egg Veg Curry;eggs,carrot,curry;cook eggs in curry vegetables;Vegetarian,Maintenance;18;330
+Turkey Lentil Bowl;turkey,lentils,onion;cook together;Halal,High-protein,Muscle gain;25;420
+Chickpea Potato Stir;chickpeas,potato,oil;pan cook ingredients;Vegan,Maintenance;20;320
+Lentil Garlic Rice;lentils,rice,garlic;cook rice and lentils;Vegan,Maintenance;28;370
+Eggplant Tomato Mix;eggplant,tomato,oil;fry eggplant with tomato;Vegan,Weight loss;18;160
+Chicken Herb Rice;chicken,rice,parsley;cook rice with chicken;Halal,High-protein,Muscle gain;25;430
+Fish Veg Stew;fish,carrot,potato;boil ingredients;Halal,Weight loss;28;220
+Tofu Carrot Plate;tofu,carrot,oil;cook tofu and carrots;Vegan,Maintenance;15;250
+Zucchini Lentil Curry;zucchini,lentils,curry;boil with curry;Vegan,Weight loss;30;210
+Bean Pepper Mix;beans,pepper,onion;cook vegetables with beans;Vegan,Maintenance;18;300
+Turkey Garlic Stir;turkey,garlic,oil;cook turkey with garlic;Halal,Muscle gain;14;320
+Chicken Tomato Bake;chicken,tomato,oil;bake tomato-covered chicken;Halal,High-protein,Muscle gain;28;390
+Lentil Spinach Soup;lentils,spinach,broth;boil spinach into lentils;Vegan,Weight loss;25;180
+Chickpea Carrot Bowl;chickpeas,carrot,lemon;mix chickpeas and carrots;Vegan,Maintenance;10;240
+Egg Potato Rice;eggs,potato,rice;cook all together;Vegetarian,Maintenance;20;420
+Zucchini Egg Stir;zucchini,eggs,oil;scramble eggs with zucchini;Vegetarian,Weight loss;10;200
+Chicken Rice Bowl;chicken,rice,oil;cook chicken and serve over rice;Halal,Muscle gain;22;450
+Fish Pepper Stir;fish,pepper,onion;pan cook ingredients;Halal,Weight loss;18;240
+Tofu Spinach Mix;tofu,spinach,garlic;cook tofu and spinach;Vegan,Maintenance;14;220
+Potato Rice Stir;potato,rice,oil;mix cooked potatoes with rice;Vegan,Maintenance;20;390
+Lentil Veggie Curry;lentils,peas,curry;boil lentils with curry peas;Vegan,Maintenance;28;360
+Turkey Bean Plate;turkey,beans,onion;cook ingredients;Halal,Muscle gain;22;430
+Chickpea Rice Stir;chickpeas,rice,oil;mix chickpeas and rice;Vegan,Maintenance;20;360
+Egg Onion Stir;eggs,onion,butter;cook eggs with onions;Vegetarian,Maintenance;8;260
+Zucchini Sweet Potato;zucchini,sweet potato,oil;roast ingredients;Vegan,Weight loss;25;220
+Chicken Lentil Curry;chicken,lentils,curry;cook chicken in lentil curry;Halal,High-protein,Muscle gain;35;480
+Fish Herb Rice;fish,rice,parsley;cook fish over rice;Halal,Weight loss;22;260
+Tofu Tomato Rice;tofu,tomato,rice;cook ingredients together;Vegan,Maintenance;20;380
+Lentil Carrot Rice;lentils,rice,carrot;mix cooked rice with lentils;Vegan,Maintenance;28;360
+Egg Pepper Wrap;eggs,pepper,tortilla;wrap cooked eggs;Vegetarian,Maintenance;10;330
+Chickpea Garlic Rice;chickpeas,garlic,rice;cook rice and add chickpeas;Vegan,Maintenance;25;370
+Turkey Veg Mix;turkey,carrot,peas;cook turkey with vegetables;Halal,Muscle gain;22;430
+Mushroom Rice Plate;rice,mushroom,oil;mix rice with mushrooms;Vegetarian,Maintenance;20;380
+Lentil Potato Stew;lentils,potato,garlic;boil ingredients;Vegan,Weight loss;28;200
+Chicken Bean Rice;chicken,beans,rice;cook mixture;Halal,High-protein,Muscle gain;28;460
+Fish Spinach Mix;fish,spinach,garlic;cook ingredients;Halal,Weight loss;18;240
+Tofu Pepper Stir;tofu,pepper,onion;pan cook tofu and veggies;Vegan,Maintenance;15;240
+Chickpea Veg Rice;chickpeas,carrot,rice;cook rice and add chickpeas;Vegan,Maintenance;28;360
+Rice Lentil Wrap;rice,lentils,tortilla;wrap ingredients;Vegan,Maintenance;10;380
+Egg Garlic Stir;eggs,garlic,butter;cook scrambled eggs;Vegetarian,Maintenance;6;240
+Turkey Rice Stir;turkey,rice,oil;mix turkey and rice;Halal,Muscle gain;20;450
+Chickpea Spinach Saute;chickpeas,spinach,garlic,olive oil;saute garlic, add chickpeas and spinach;Vegan,Weight loss;15;210
+Beef Eggplant Stew;beef,eggplant,onion,tomato paste;slow cook beef with vegetables;Halal,Maintenance;60;480
+Veggie Brown Rice Bowl;brown rice,broccoli,carrot,peas;steam veggies and mix with rice;Vegan,Weight loss;25;310
+Turkey Zoodle Skillet;ground turkey,zucchini noodles,tomato,basil;cook turkey, add veggies;High-protein,Muscle gain;20;340
+Tofu Sweet Chili Bowl;tofu,bell pepper,broccoli,sweet chili sauce;stir fry tofu and vegetables;Vegan,Maintenance;20;290
+Herbed Lentil Soup;lentils,carrot,celery,onion;boil all ingredients until soft;Vegan,Weight loss;35;230
+Grilled Spiced Chicken;chicken,lemon,garlic,spices;marinate chicken and grill;Halal,Muscle gain;30;420
+Broccoli Bean Mash;white beans,broccoli,garlic,olive oil;steam broccoli, mash with beans;Vegan,Weight loss;15;190
+Vegetarian Chili Pot;beans,tomato,onion,chili powder;slow cook until thick;Vegetarian,Maintenance;45;360
+Carrot Ginger Puree;carrot,ginger,olive oil,broth;boil and blend smooth;Vegan,Low calorie;20;110
+Chicken Green Pepper Fry;chicken,green pepper,garlic,soy sauce;pan fry chicken and veggies;Halal,Muscle gain;25;380
+Sesame Tofu Crunch;tofu,sesame seeds,soy sauce,green onion;pan fry tofu and coat with sesame;Vegan,Maintenance;15;260
+Mushroom Bean Skillet;mushrooms,white beans,garlic,thyme;saute mushrooms and beans;Vegan,Weight loss;20;180
+Potato Leek Broth;potato,leek,broth,pepper;boil and blend;Vegetarian,Low calorie;30;140
+Turkey Spinach Omelette;eggs,ground turkey,spinach,onion;cook turkey, add to omelette;High-protein,Muscle gain;20;420
+Crispy Chickpea Wrap;chickpeas,tomato,lettuce,tortilla;roast chickpeas and wrap;Vegetarian,Maintenance;15;330
+Tomato Basil Rice;rice,tomato,basil,olive oil;cook rice with tomatoes;Vegan,Weight loss;20;240
+Beef Garlic Stir Fry;beef,garlic,broccoli,carrot;stir fry beef with vegetables;Halal,Muscle gain;20;450
+Zesty Quinoa Blend;quinoa,lemon,parsley,cucumber;mix cooked quinoa with veggies;Vegan,Weight loss;15;210
+Warm Lentil Potato Mix;lentils,potato,onion,pepper;boil and season;Vegan,Maintenance;25;260
+Chicken Carrot Roast;chicken,carrot,garlic,spices;roast all together;Halal,Muscle gain;35;410
+Vegetarian Eggplant Curry;eggplant,tomato,onion,spices;saute vegetables, simmer;Vegetarian,Maintenance;30;320
+Cucumber Mint Quinoa;quinoa,cucumber,mint,olive oil;mix ingredients chilled;Vegan,Weight loss;10;180
+Tofu Ginger Bowl;tofu,ginger,soy sauce,green beans;stir fry tofu with ginger;Vegan,Maintenance;20;250
+Chicken Spinach Rice;chicken,spinach,rice,garlic;cook chicken, mix with rice;Halal,Muscle gain;25;500
+Miso Vegetable Stew;carrot,broccoli,miso,potato;simmer all ingredients;Vegan,Weight loss;35;170
+Pepper Bean Saute;black beans,bell pepper,onion,spices;saute until soft;Vegan,Low calorie;15;160
+Turkey Tomato Skillet;ground turkey,tomato,onion,garlic;cook turkey, add vegetables;High-protein,Muscle gain;20;430
+Creamy Cauliflower Soup;cauliflower,garlic,broth,olive oil;boil and blend;Vegetarian,Low calorie;25;130
+Tomato Chickpea Pasta;pasta,chickpeas,tomato,garlic;cook pasta, add chickpeas and sauce;Vegetarian,Maintenance;25;390
+Beef Sweet Potato Bowl;beef,sweet potato,spinach,garlic;roast sweet potato, add beef;Halal,Muscle gain;30;520
+Green Lentil Stir Fry;lentils,spinach,onion,garlic;stir fry cooked lentils;Vegan,Weight loss;20;230
+Vegetarian Pea Curry;peas,coconut milk,onion,spices;cook until thick;Vegetarian,Maintenance;25;340
+Crunchy Chickpea Salad;chickpeas,cucumber,tomato,olive oil;mix ingredients fresh;Vegan,Weight loss;10;200
+Chicken Garlic Pot;chicken,garlic,onion,broth;slow cook chicken with garlic;Halal,Muscle gain;45;460
+Sesame Carrot Stir Fry;carrot,sesame,soy sauce,green onion;stir fry carrots;Vegan,Low calorie;10;120
+Tofu Tomato Stew;tofu,tomato,onion,garlic;slow simmer tofu in sauce;Vegan,Maintenance;25;240
+Turkey Bean Bowl;ground turkey,black beans,onion,pepper;pan fry turkey and beans;High-protein,Muscle gain;25;480
+Garlic Broccoli Puree;broccoli,garlic,olive oil,broth;steam and blend;Vegan,Weight loss;15;110
+Rice Lentil Plate;rice,lentils,onion,spices;cook rice and lentils together;Vegan,Maintenance;30;330
+Chicken Zesty Salad;chicken,lettuce,tomato,lemon;mix cooked chicken with veggies;Halal,Weight loss;20;260
+Mushroom Potato Bake;mushrooms,potato,garlic,herbs;bake until tender;Vegetarian,Maintenance;35;370
+Tofu Pea Stir Fry;tofu,peas,garlic,soy sauce;pan fry tofu, add peas;Vegan,Low calorie;15;170
+Vegetarian Pepper Rice;rice,bell pepper,onion,garlic;mix steamed rice with peppers;Vegetarian,Maintenance;20;310
+Beef Garlic Broccoli Bowl;beef,broccoli,garlic,soy sauce;stir fry beef and broccoli;Halal,Muscle gain;18;490
+Mediterranean Chickpea Mix;chickpeas,tomato,cucumber,olive oil;mix chilled;Vegan,Weight loss;10;200
+Turkey Sweet Pepper Skillet;ground turkey,sweet peppers,onion;cook everything together;High-protein,Muscle gain;20;440
+Spinach Lentil Puree;lentils,spinach,garlic,broth;boil and blend;Vegan,Low calorie;20;150
+Carrot Tomato Stew;carrot,tomato,onion,garlic;slow simmer;Vegan,Weight loss;25;160
+Chicken Veggie Rice Pot;chicken,rice,peas,carrot;cook rice with seasoned chicken;Halal,Maintenance;30;420
+Garlic Spinach Lentils;lentils,spinach,garlic,olive oil;boil lentils and mix with sautéed spinach;Vegan,Weight loss;25;220
+Chicken Pepper Rice Bowl;chicken,rice,green pepper,garlic;cook chicken and mix with rice;Halal,Muscle gain;30;500
+Roasted Vegetable Plate;zucchini,carrot,tomato,olive oil;roast all vegetables;Vegan,Low calorie;20;150
+Tofu Rice Skillet;tofu,rice,soy sauce,broccoli;stir fry tofu and rice;Vegan,Maintenance;22;310
+Eggplant Tomato Curry;eggplant,tomato,onion,spices;cook until softened;Vegetarian,Weight loss;30;230
+Beef Carrot Fry;beef,carrot,garlic,onion;pan fry until cooked;Halal,Muscle gain;18;520
+Chickpea Lemon Salad;chickpeas,lemon,lettuce,cucumber;mix ingredients chilled;Vegan,Weight loss;10;190
+Turkey Spinach Stir Fry;ground turkey,spinach,garlic,onion;cook turkey and add spinach;High-protein,Muscle gain;17;470
+Creamy Potato Soup;potato,garlic,broth,olive oil;boil and blend smooth;Vegetarian,Maintenance;28;280
+Garlic Veggie Quinoa;quinoa,broccoli,carrot,garlic;mix cooked quinoa with veggies;Vegan,Weight loss;20;240
+Chicken Herb Pot;chicken,carrot,onion,herbs;slow cook chicken;Halal,Maintenance;40;430
+Lentil Vegetable Bowl;lentils,carrot,spinach,tomato;boil and season;Vegan,Weight loss;30;210
+Stir Fry Tofu Peppers;tofu,bell pepper,onion,soy sauce;stir fry everything;Vegan,Maintenance;15;260
+Rice Sweet Potato Mix;rice,sweet potato,spices,olive oil;cook rice, add roasted sweet potato;Vegan,Weight loss;25;310
+Chicken Garlic Roast;chicken,garlic,olive oil,pepper;roast until golden;Halal,Muscle gain;35;490
+Tomato Lentil Puree;lentils,tomato,garlic,broth;cook and blend smooth;Vegan,Low calorie;20;150
+Turkey Bean Skillet;ground turkey,white beans,onion,garlic;cook turkey, mix beans;High-protein,Muscle gain;25;480
+Carrot Pea Stew;carrot,peas,broth,onion;boil until soft;Vegan,Weight loss;25;160
+Vegetarian Quinoa Tomato Plate;quinoa,tomato,garlic,olive oil;mix cooked quinoa with tomato;Vegetarian,Maintenance;20;280
+Chicken Zucchini Fry;chicken,zucchini,garlic,pepper;pan fry ingredients;Halal,Muscle gain;20;440
+Cucumber Chickpea Bowl;cucumber,chickpeas,olive oil,parsley;mix ingredients raw;Vegan,Weight loss;8;170
+Beef Broccoli Garlic Mix;beef,broccoli,garlic,soy sauce;stir fry beef and broccoli;Halal,Muscle gain;16;510
+Tofu Cabbage Stir Fry;tofu,cabbage,garlic,soy sauce;stir fry until tender;Vegan,Maintenance;18;240
+Spinach Brown Rice Plate;brown rice,spinach,garlic,olive oil;mix cooked rice with spinach;Vegan,Weight loss;22;230
+Vegetarian Pepper Omelette;eggs,pepper,onion,cheese;whisk and cook omelette;Vegetarian,Maintenance;15;320
+Chicken Sweet Pepper Roast;chicken,sweet pepper,garlic,oil;roast until tender;Halal,Muscle gain;30;480
+Lemon Lentil Soup;lentils,lemon,garlic,broth;boil until soft;Vegan,Low calorie;25;150
+Turkey Garlic Mix;ground turkey,garlic,onion,pepper;pan fry everything;High-protein,Muscle gain;15;460
+Tomato Basil Veggie Blend;tomato,basil,zucchini,olive oil;saute vegetables;Vegan,Weight loss;18;160
+Rice Chickpea Curry;rice,chickpeas,onion,spices;cook rice and pour curry over;Vegan,Maintenance;30;340
+Chicken Spinach Garlic Skillet;chicken,spinach,garlic,onion;cook chicken, add spinach;Halal,Muscle gain;20;450
+Broccoli Carrot Puree;broccoli,carrot,broth,garlic;boil and blend smooth;Vegan,Low calorie;20;120
+Vegetarian Tomato Pasta;pasta,tomato,basil,garlic;cook pasta and add sauce;Vegetarian,Maintenance;25;390
+Tofu Lentil Chop Bowl;tofu,lentils,spinach,garlic;mix cooked lentils with tofu sauté;Vegan,Weight loss;22;240
+Beef Sweet Carrot Stew;beef,carrot,onion,garlic;slow cook until tender;Halal,Muscle gain;55;540
+Chickpea Cabbage Salad;chickpeas,cabbage,olive oil,lemon;mix fresh;Vegan,Weight loss;10;180
+Turkey Rice Tomato Pot;ground turkey,rice,tomato,garlic;mix cooked ingredients;High-protein,Muscle gain;30;510
+Zucchini Pepper Stir Fry;zucchini,peppers,onion,garlic;stir fry all;Vegan,Low calorie;15;140
+Vegetarian Lentil Casserole;lentils,potato,carrot,onion;bake until soft;Vegetarian,Maintenance;40;350
+Chicken Garlic Zoodle Mix;chicken,zucchini noodles,garlic,tomato;pan cook everything;Halal,Weight loss;22;320
+Carrot Lentil Herb Soup;lentils,carrot,broth,herbs;boil until cooked;Vegan,Low calorie;25;140
+Tofu Broccoli Rice;tofu,broccoli,rice,soy sauce;mix stir fried tofu with rice;Vegan,Maintenance;25;330
+Beef Pepper Pot;beef,green pepper,onion,garlic;cook together;Halal,Muscle gain;22;520
+Vegetarian Spinach Egg Scramble;eggs,spinach,onion,cheese;scramble eggs with veggies;Vegetarian,Maintenance;12;290
+Chicken Bean Skillet;chicken,white beans,garlic,spices;cook chicken and mix beans;Halal,Muscle gain;25;490
+Tomato Cucumber Mix;tomato,cucumber,olive oil,salt;mix fresh;Vegan,Weight loss;5;110
+Turkey Pea Stir Fry;ground turkey,peas,onion,garlic;pan cook ingredients;High-protein,Muscle gain;17;450
+Rice Garlic Veggie Plate;rice,broccoli,garlic,olive oil;mix cooked rice with veggies;Vegan,Maintenance;18;310
+Cauliflower Potato Mash;cauliflower,potato,garlic,olive oil;boil and mash;Vegetarian,Weight loss;25;200
+Chicken Herb Rice Bowl;chicken,rice,herbs,garlic;cook chicken and mix with rice;Halal,Maintenance;28;420
+Chickpea Veggie Curry;chickpeas,tomato,spinach,spices;cook chickpeas with vegetables;Vegan,Maintenance;25;320
+Chicken Spinach Stew;chicken,spinach,onion,garlic;slow cook all together;Halal,Weight loss;35;290
+Lentil Broccoli Bowl;lentils,broccoli,garlic,olive oil;boil lentils, add broccoli;Vegan,Weight loss;22;210
+Turkey Mushroom Skillet;ground turkey,mushroom,onion,pepper;cook turkey and mushrooms;High-protein,Muscle gain;20;480
+Vegetable Tomato Soup;tomato,carrot,broth,onion;boil until soft;Vegan,Low calorie;30;130
+Chicken Garlic Stir Fry;chicken,garlic,broccoli,soy sauce;stir fry ingredients;Halal,Muscle gain;18;430
+Tofu Spinach Mix;tofu,spinach,garlic,oil;pan fry tofu, add spinach;Vegan,Maintenance;15;270
+Rice Bean Plate;rice,black beans,onion,garlic;cook rice and mix beans;Vegan,Maintenance;30;340
+Lemon Pepper Chicken;chicken,lemon,pepper,garlic;marinate and grill;Halal,Weight loss;25;280
+Sweet Potato Lentil Curry;sweet potato,lentils,garlic,spices;cook until tender;Vegan,Weight loss;30;240
+Turkey Green Bean Bowl;ground turkey,green beans,onion,garlic;pan fry turkey and beans;High-protein,Muscle gain;20;450
+Carrot Chickpea Puree;carrot,chickpeas,broth,olive oil;blend after boiling;Vegan,Low calorie;18;150
+Chicken Tomato Skillet;chicken,tomato,garlic,pepper;cook chicken with tomatoes;Halal,Maintenance;22;370
+Tofu Vegetable Curry;tofu,tomato,peas,spices;cook vegetables and tofu;Vegan,Maintenance;28;300
+Vegetable Quinoa Salad;quinoa,cucumber,tomato,olive oil;mix ingredients chilled;Vegan,Weight loss;15;210
+Beef Garlic Rice;beef,rice,garlic,pepper;stir fry beef and mix with rice;Halal,Muscle gain;25;520
+Eggplant Pepper Fry;eggplant,pepper,onion,garlic;saute until soft;Vegetarian,Weight loss;20;190
+Lentil Zucchini Stew;lentils,zucchini,onion,garlic;boil and season;Vegan,Low calorie;25;170
+Chicken Pea Rice;chicken,peas,rice,onion;cook rice and add chicken;Halal,Maintenance;28;400
+Chickpea Spinach Wrap;chickpeas,spinach,tortilla,tomato;wrap ingredients;Vegetarian,Maintenance;12;330
+Turkey Sweet Potato Mix;ground turkey,sweet potato,onion;cook turkey, add potato;High-protein,Muscle gain;25;490
+Broccoli Potato Bowl;broccoli,potato,garlic,oil;boil and mix;Vegan,Weight loss;20;180
+Chicken Mushroom Soup;chicken,mushrooms,broth,onion;boil until tender;Halal,Low calorie;30;160
+Tofu Herb Rice;tofu,rice,herbs,garlic;mix tofu with cooked rice;Vegan,Maintenance;22;310
+Lentil Sweet Pepper Stir;lentils,sweet pepper,onion,garlic;stir fry cooked lentils;Vegan,Weight loss;20;210
+Turkey Bean Stew;ground turkey,beans,onion,garlic;slow cook all ingredients;High-protein,Muscle gain;35;500
+Vegetable Pepper Soup;pepper,carrot,onion,broth;boil ingredients;Vegan,Low calorie;25;140
+Chicken Basil Stir Fry;chicken,basil,garlic,pepper;stir fry chicken;Halal,Muscle gain;18;420
+Chickpea Tomato Bake;chickpeas,tomato,onion,olive oil;bake until soft;Vegan,Maintenance;25;290
+Sweet Potato Rice Bowl;sweet potato,rice,garlic,oil;roast potato and mix with rice;Vegan,Weight loss;25;260
+Tofu Ginger Rice;tofu,ginger,rice,soy sauce;stir fry tofu;Vegan,Maintenance;20;300
+Chicken Carrot Skillet;chicken,carrot,onion,garlic;cook until tender;Halal,Weight loss;22;280
+Lentil Pepper Soup;lentils,pepper,onion,garlic;boil ingredients;Vegan,Low calorie;25;150
+Turkey Vegetable Fry;turkey,zucchini,pepper,onion;stir fry until cooked;High-protein,Muscle gain;22;460
+Mushroom Tomato Plate;mushroom,tomato,garlic,oil;saute until soft;Vegetarian,Weight loss;15;160
+Chicken Broccoli Bake;chicken,broccoli,garlic,olive oil;bake until golden;Halal,Muscle gain;30;480
+Tofu Cabbage Mix;tofu,cabbage,garlic,soy sauce;stir fry;Vegan,Maintenance;15;240
+Lentil Lemon Bowl;lentils,lemon,garlic,parsley;mix boiled lentils;Vegan,Weight loss;18;180
+Chicken Rice Tomato Pot;chicken,rice,tomato,garlic;cook rice with chicken;Halal,Maintenance;30;420
+Carrot Zucchini Stir Fry;carrot,zucchini,garlic,oil;stir fry vegetables;Vegan,Low calorie;15;120
+Turkey Garlic Herb Mix;ground turkey,garlic,herbs,onion;cook turkey and season;High-protein,Muscle gain;18;440
+Lentil Broth Soup;lentils,broth,onion,garlic;cook until soft;Vegan,Low calorie;20;140
+Chicken Sweet Pepper Stew;chicken,sweet pepper,onion;slow cook;Halal,Maintenance;35;350
+Tofu Spinach Pepper Fry;tofu,spinach,pepper,soy sauce;stir fry ingredients;Vegan,Maintenance;20;260
+Rice Vegetable Curry;rice,carrot,peas,onion;cook curry and mix with rice;Vegan,Weight loss;30;310
+Turkey Brown Rice Plate;turkey,brown rice,onion,garlic;cook together;High-protein,Muscle gain;28;500
+Chickpea Garlic Saute;chickpeas,garlic,olive oil,pepper;saute until warm;Vegan,Weight loss;10;200
+Chicken Veggie Broth;chicken,carrot,celery,broth;boil until tender;Halal,Low calorie;35;180
+Tofu Zoodle Stir Fry;tofu,zucchini noodles,garlic,soy sauce;stir fry everything;Vegan,Maintenance;18;230
+Lentil Carrot Mash;lentils,carrot,garlic,oil;boil and mash;Vegan,Weight loss;22;170
+Chicken Basil Rice;chicken,rice,basil,garlic;cook chicken and mix with rice;Halal,Muscle gain;28;480
+Sweet Potato Pepper Bowl;sweet potato,pepper,oil,spices;roast vegetables;Vegan,Weight loss;22;210
+Turkey Tomato Rice;turkey,rice,tomato,garlic;cook turkey then add to rice;High-protein,Muscle gain;25;490
+Mushroom Lemon Saute;mushrooms,lemon,garlic,oil;saute mushrooms;Vegetarian,Low calorie;10;130
+Chickpea Spinach Curry;chickpeas,spinach,onion,spices;cook until thick;Vegan,Maintenance;28;300
+Chicken Zucchini Soup;chicken,zucchini,broth,garlic;boil ingredients;Halal,Weight loss;25;220
+Tofu Tomato Rice;tofu,rice,tomato,garlic;mix cooked rice with tofu;Vegan,Maintenance;22;310
+Lentil Garlic Stir Fry;lentils,garlic,spinach,oil;mix boiled lentils;Vegan,Low calorie;15;150
+Turkey Green Pea Mix;turkey,peas,onion,garlic;cook until done;High-protein,Muscle gain;18;450
+Carrot Broccoli Steam;carrot,broccoli,garlic;steam vegetables;Vegan,Weight loss;10;110
+Chicken Lemon Veggie Bowl;chicken,broccoli,lemon,garlic;cook chicken, add veggies;Halal,Maintenance;25;380
+Tofu Pepper Herb Fry;tofu,pepper,herbs,garlic;stir fry;Vegan,Maintenance;18;240
+Tomato Lentil Pot;tomato,lentils,garlic,onion;cook until thick;Vegan,Low calorie;25;160
+Turkey Carrot Rice;ground turkey,carrot,rice,garlic;mix cooked ingredients;High-protein,Muscle gain;30;500
+Zucchini Tomato Stew;zucchini,tomato,onion,garlic;slow cook;Vegetarian,Weight loss;25;180
+Chicken Cabbage Stir Fry;chicken,cabbage,garlic,soy sauce;stir fry;Halal,Weight loss;20;260
+Chickpea Mushroom Skillet;chickpeas,mushroom,garlic,oil;cook until browned;Vegan,Maintenance;15;250
+Lentil Spinach Puree;lentils,spinach,garlic,broth;blend smooth;Vegan,Low calorie;20;150
+Turkey Garlic Pepper Bowl;turkey,pepper,garlic,onion;pan fry;High-protein,Muscle gain;17;460
+Vegetable Rice Plate;rice,carrot,peas,garlic;cook rice and mix vegetables;Vegan,Maintenance;25;320
+Chicken Sweet Potato Bake;chicken,sweet potato,garlic,oil;bake until soft;Halal,Muscle gain;35;510
+Tofu Lemon Stir Fry;tofu,lemon,garlic,spinach;stir fry tofu;Vegan,Weight loss;18;220
+Lentil Pepper Curry;lentils,pepper,tomato,spices;cook until soft;Vegan,Maintenance;28;300
+Turkey Onion Skillet;turkey,onion,garlic,pepper;stir fry;High-protein,Muscle gain;15;440
+Broccoli Carrot Puree;broccoli,carrot,garlic,oil;steam and blend;Vegan,Low calorie;20;130
+Chicken Rice Herb Stew;chicken,rice,herbs,onion;slow cook;Halal,Maintenance;35;400
+Tofu Rice Pepper Bowl;tofu,rice,pepper,soy sauce;mix cooked rice with tofu;Vegan,Maintenance;22;310
+Chickpea Garlic Rice;chickpeas,rice,garlic,oil;mix ingredients;Vegan,Weight loss;20;240
+Turkey Lentil Bowl;turkey,lentils,onion,pepper;cook turkey and add lentils;High-protein,Muscle gain;25;500
+Carrot Spinach Stir Fry;carrot,spinach,garlic,oil;stir fry;Vegan,Low calorie;12;120
+Chicken Basil Stir Fry;chicken,basil,garlic,pepper;stir fry chicken;Halal,Muscle gain;18;420
+Tofu Veggie Stew;tofu,carrot,peas,onion;slow cook;Vegan,Maintenance;25;290
+Lentil Zoodle Pot;lentils,zucchini noodles,garlic;mix together;Vegan,Weight loss;22;180
+Turkey Broccoli Rice;turkey,rice,broccoli,garlic;cook turkey and rice;High-protein,Muscle gain;28;510
+Tomato Spinach Saute;tomato,spinach,garlic,oil;saute vegetables;Vegetarian,Low calorie;10;110
+Chicken Garlic Curry;chicken,garlic,tomato,spices;cook chicken with spices;Halal,Maintenance;30;380
+Tofu Herb Salad;tofu,cucumber,tomato,herbs;mix fresh ingredients;Vegan,Weight loss;8;190
+Lentil Veggie Bake;lentils,carrot,potato,onion;bake until soft;Vegan,Maintenance;35;330
+Turkey Sweet Pepper Pot;turkey,sweet peppers,onion;slow cook;High-protein,Muscle gain;30;480
+Carrot Cabbage Rice;carrot,cabbage,rice,garlic;cook rice and add vegetables;Vegan,Weight loss;25;250
+Chicken Tomato Herb Mix;chicken,tomato,herbs,garlic;saute until cooked;Halal,Weight loss;20;260
+Tofu Bean Stir Fry;tofu,beans,garlic,onion;stir fry;Vegan,Maintenance;18;290
+Lentil Lemon Stew;lentils,lemon,garlic,onion;boil until soft;Vegan,Low calorie;22;150
+Turkey Zucchini Bake;turkey,zucchini,onion,garlic;bake until cooked;High-protein,Muscle gain;32;500
+Spinach Pepper Omelette;eggs,spinach,pepper,onion;make omelette;Vegetarian,Maintenance;12;300
+Chicken Rice Garlic Pot;chicken,rice,garlic,pepper;cook all ingredients;Halal,Maintenance;30;420
+Tofu Tomato Stir Fry;tofu,tomato,garlic,oil;stir fry;Vegan,Weight loss;15;210
+Veggie Lentil Plate;lentils,carrot,broccoli,garlic;mix boiled lentils with veggies;Vegan,Maintenance;25;260
+Turkey Herb Saute;turkey,herbs,garlic,onion;saute turkey;High-protein,Muscle gain;18;450
+Broccoli Sweet Potato Mix;broccoli,sweet potato,garlic,oil;steam and mix;Vegan,Weight loss;20;190
+Creamy Spinach Penne;penne,spinach,cream,garlic;boil pasta and mix with sautéed spinach and cream;Vegetarian,Maintenance;25;480
+Honey Lemon Chicken;chicken,honey,lemon,garlic;marinate chicken and bake;Halal,High-protein,Muscle gain;30;420
+Roasted Garlic Carrots;carrots,garlic,olive oil;roast carrots with garlic;Vegan,Low-calorie,Weight loss;25;120
+Tomato Lentil Curry;lentils,tomato,garlic,spices;boil lentils and simmer in tomato sauce;Vegan,Gluten-free,Maintenance;35;310
+Crispy Potato Cakes;potato,egg,flour,onion;pan fry mashed potato mixture;Vegetarian,Maintenance;20;350
+Chickpea Spinach Stir Fry;chickpeas,spinach,garlic;stir fry chickpeas with spinach;Vegan,Low-calorie,Weight loss;15;210
+Simple Grilled Tilapia;tilapia,lemon,salt;grill tilapia;Halal,Low-calorie,Weight loss;12;180
+Veggie Rice Casserole;rice,carrot,peas,cheese;bake rice with vegetables and cheese;Vegetarian,Maintenance;40;430
+Baked BBQ Chicken;chicken,bbq sauce,salt;bake chicken with sauce;Halal,High-protein,Muscle gain;35;520
+Chilled Cucumber Soup;cucumber,yogurt,garlic;blend all ingredients;Vegetarian,Low-calorie,Weight loss;10;110
+Tomato Basil Quinoa;quinoa,tomato,basil,garlic;cook quinoa and stir with tomatoes;Vegan,Gluten-free,Maintenance;22;330
+Spicy Chickpea Bowl;chickpeas,paprika,onion;pan fry chickpeas with spices;Vegan,Low-calorie,Weight loss;18;230
+Baked Eggplant Rounds;eggplant,olive oil,salt;bake eggplant slices;Vegan,Low-calorie,Weight loss;25;150
+Orange Glazed Chicken;chicken,orange juice,honey;cook chicken in citrus sauce;Halal,High-protein,Maintenance;25;410
+Vegetable Garlic Stew;zucchini,carrot,tomato,garlic;slow cook vegetables;Vegan,Low-calorie,Weight loss;35;180
+Roasted Pumpkin Cubes;pumpkin,olive oil,salt;roast pumpkin;Vegan,Gluten-free,Weight loss;20;130
+Tofu Noodle Bowl;tofu,noodles,soy sauce,garlic;stir fry tofu and mix with noodles;Vegan,Maintenance;18;380
+Teriyaki Chicken Bites;chicken,soy sauce,honey;pan fry chicken with sauce;Halal,High-protein,Muscle gain;15;390
+Garlic Green Beans;green beans,garlic,olive oil;sauté beans with garlic;Vegan,Low-calorie,Weight loss;12;95
+Potato Egg Scramble;potatoes,eggs,onion;fry potatoes and add eggs;Vegetarian,High-protein,Maintenance;15;310
+Simple Bean Soup;beans,carrot,onion,broth;boil until soft;Vegan,Low-calorie,Weight loss;40;190
+Baked Lemon Salmon;salmon,lemon,butter;bake salmon fillet;Halal,High-protein,Maintenance;20;450
+Creamy Mushroom Pasta;pasta,mushroom,cream,garlic;cook pasta and mix with creamy mushrooms;Vegetarian,Maintenance;30;520
+Garlic Stir Fry Tofu;tofu,garlic,soy sauce;stir fry tofu;Vegan,Maintenance;10;210
+Tomato Rice Casserole;rice,tomato,onion,oil;bake rice with tomato;Vegan,Maintenance;30;350
+Chickpea Tomato Stew;chickpeas,tomato,garlic;cook chickpeas in tomato sauce;Vegan,Low-calorie,Weight loss;25;240
+Lemon Dill Cod;cod,lemon,dill,garlic;bake cod with herbs;Halal,Low-calorie,Weight loss;18;170
+Egg Veggie Wrap;eggs,lettuce,onion,wrap;scramble eggs and wrap;Vegetarian,High-protein,Maintenance;10;330
+Light Chicken Salad;chicken,lettuce,yogurt;mix diced chicken with salad;Halal,Low-calorie,Weight loss;12;260
+Oat Berry Breakfast;oats,milk,berries,honey;cook oats and add berries;Vegetarian,Maintenance;8;310
+Spicy Lentil Pot;lentils,paprika,onion;cook lentils with spices;Vegan,Low-calorie,Weight loss;22;230
+Rice Vegetable Mix;rice,peas,carrot,butter;mix cooked rice and vegetables;Vegetarian,Maintenance;20;370
+Peanut Tofu Bowl;tofu,peanut butter,soy sauce;cook tofu in peanut sauce;Vegan,Maintenance;15;380
+Garlic Chicken Rice;chicken,garlic,rice;cook chicken and mix with rice;Halal,High-protein,Muscle gain;25;480
+Baked Potato Halves;potato,oil,salt;bake potatoes;Vegan,Low-calorie,Weight loss;30;160
+Zesty Chickpea Salad;chickpeas,lemon,cucumber,tomato;mix ingredients;Vegan,Low-calorie,Weight loss;10;210
+Creamy Spinach Omelette;eggs,spinach,cream;prepare omelette;Vegetarian,High-protein,Maintenance;12;300
+Garlic Shrimp Plate;shrimp,garlic,oil;cook shrimp in garlic;Halal,Low-calorie,Maintenance;10;260
+Vegetable Bulgur;bqsulf,carrot,onion;boil bulgur and mix vegetables;Vegan,Maintenance;18;350
+Chicken Broccoli Bowl;chicken,broccoli,garlic;pan fry chicken and steam broccoli;Halal,High-protein,Muscle gain;20;420
+Tomato Parsley Couscous;couscous,tomato,parsley;mix couscous with tomatoes;Vegetarian,Maintenance;15;360
+Spinach Chickpea Mash;spinach,chickpeas,garlic;blend spinach and chickpeas;Vegan,Low-calorie,Weight loss;18;200
+Creamy Lentil Pasta;pasta,lentils,cream;cook pasta and add creamy lentils;Vegetarian,Maintenance;28;490
+Chicken Veggie Skillet;chicken,carrot,pepper,garlic;cook all in skillet;Halal,High-protein,Muscle gain;20;450
+Potato Garlic Soup;potato,onion,garlic,broth;boil and blend;Vegetarian,Low-calorie,Weight loss;30;180
+Simple Tuna Mix;tuna,cucumber,olive oil;mix tuna with cucumber;Halal,Low-calorie,Weight loss;5;160
+Baked Carrot Fries;carrot,oil,salt;roast carrot sticks;Vegan,Low-calorie,Weight loss;20;110
+Veggie Barley Stew;barley,carrot,zucchini;boil barley with vegetables;Vegetarian,Maintenance;40;390
+Herb Turkey Cutlets;turkey,herbs,garlic;cook turkey with herbs;Halal,High-protein,Muscle gain;18;330
+Creamy Pea Pasta;pasta,peas,cream,garlic;cook pasta and add creamy peas;Vegetarian,Maintenance;25;470
+Garlic Lentil Patties;lentils,onion,garlic,flour;form patties and fry;Vegan,Maintenance;22;310
+Tofu Veggie Curry;tofu,carrot,peas,curry;cook tofu and vegetables in sauce;Vegan,Maintenance;25;360
+Spinach Potato Mix;spinach,potato,garlic;mix cooked potatoes with sautéed spinach;Vegan,Low-calorie,Weight loss;18;190
+Chicken Lemon Rice;chicken,rice,lemon;cook chicken and add to cooked rice;Halal,High-protein,Maintenance;25;470
+Vegetable Noodle Soup;noodles,carrot,onion,broth;boil ingredients;Vegetarian,Low-calorie,Weight loss;20;160
+Creamy Tomato Omelette;eggs,tomato,cream;cook eggs with tomato and cream;Vegetarian,High-protein,Maintenance;10;290
+Crispy Garlic Chicken;chicken,garlic,butter;pan fry in garlic butter;Halal,High-protein,Muscle gain;15;460
+Baked Zucchini Rounds;zucchini,oil,salt;bake zucchini slices;Vegan,Low-calorie,Weight loss;18;90
+Tomato Chickpea Curry;chickpeas,tomato,garlic;cook chickpeas in tomato sauce;Vegan,Maintenance;25;320
+Beetroot Walnut Salad;beetroot,walnuts,olive oil;mix cooked beets with nuts;Vegan,Low-calorie,Weight loss;15;210
+Chicken Broth Bowl;chicken,broth,onion;boil chicken in broth;Halal,Low-calorie,Weight loss;35;170
+Spiced Bulgur Bowl;bulgur,paprika,onion;cook bulgur with spices;Vegan,Maintenance;20;360
+Lemon Parsley Fish;fish,lemon,parsley;bake fish with herbs;Halal,Low-calorie,Weight loss;15;200
+Creamy Garlic Tofu;tofu,cream,garlic;cook tofu in creamy garlic sauce;Vegetarian,Maintenance;18;340
+Vegetable Chickpea Mix;carrot,peas,chickpeas;mix boiled vegetables;Vegan,Maintenance;15;260
+Rice Egg Skillet;rice,eggs,onion;fry rice and add eggs;Vegetarian,High-protein,Maintenance;12;390
+Basic Chicken Stir Fry;chicken,pepper,onion;stir fry chicken and veggies;Halal,High-protein,Muscle gain;15;430
+Pumpkin Lentil Soup;pumpkin,lentils,garlic;boil and blend;Vegan,Low-calorie,Weight loss;30;190
+Creamy Spinach Rice;rice,spinach,cream;mix cooked rice with spinach cream;Vegetarian,Maintenance;25;420
+Herbed Chickpea Mash;chickpeas,parsley,garlic;blend chickpeas with herbs;Vegan,Low-calorie,Weight loss;12;210
+Tomato Basil Fish;fish,tomato,basil,cumin;bake fish with tomatoes;Halal,Low-calorie,Maintenance;22;250
+Vegetable Millet Bowl;millet,carrot,peas;boil millet and add veggies;Vegan,Maintenance;25;350
+Tofu Rice Skillet;tofu,rice,garlic;cook tofu and mix with rice;Vegan,Maintenance;15;360
+Chicken Spinach Wrap;chicken,spinach,yogurt;fill wrap with cooked chicken and spinach;Halal,High-protein,Muscle gain;12;420
+Beet Carrot Salad;beet,carrot,lemon;mix grated vegetables;Vegan,Low-calorie,Weight loss;10;120
+Parsley Rice;rice,parsley,butter;mix cooked rice with parsley;Vegetarian,Maintenance;18;350
+Chickpea Stew Pot;chickpeas,carrot,onion;cook stew;Vegan,Maintenance;30;330
+Lemon Garlic Shrimp;shrimp,lemon,garlic;cook shrimp with lemon;Halal,High-protein,Maintenance;8;270
+Creamy Potato Soup;potato,cream,garlic;boil and blend;Vegetarian,Maintenance;25;310
+Grilled Mushroom Plate;mushrooms,oil,salt;grill mushrooms;Vegan,Low-calorie,Weight loss;12;120
+Chicken Pepper Pasta;pasta,chicken,pepper;cook and mix;Halal,High-protein,Muscle gain;22;510
+Simple Rice Bowl;rice,oil,salt;boil rice;Vegan,Maintenance;15;320
+Tomato Spinach Stir Fry;tomato,spinach,garlic;stir fry vegetables;Vegan,Low-calorie,Weight loss;10;110
+Creamy Pea Omelette;eggs,peas,cream;cook pea-filled omelette;Vegetarian,High-protein,Maintenance;12;290
+Zesty Chickpea Wrap;chickpeas,lettuce,tomato;wrap vegetables with chickpeas;Vegan,Low-calorie,Weight loss;10;230
+Chicken Bean Stew;chicken,beans,onion;cook chicken and beans;Halal,High-protein,Muscle gain;35;460
+Roasted Tomato Slices;tomato,oil,salt;roast tomato slices;Vegan,Low-calorie,Weight loss;15;80
+Lemon Basil Quinoa;quinoa,lemon,basil;cook quinoa and season;Vegan,Gluten-free,Maintenance;20;310
+Carrot Ginger Soup;carrot,ginger,broth;boil and blend;Vegan,Low-calorie,Weight loss;25;150
+Beef Basil Stir Fry;beef,basil,garlic,onion;stir fry beef with basil and garlic;Halal,High-protein,Muscle gain;18;520
+Salmon Veggie Bowl;salmon,broccoli,lemon;steam broccoli and bake salmon;Halal,High-protein,Maintenance;20;420
+Beef Tomato Stew;beef,tomato,onion,carrot;slow cook beef with vegetables;Halal,High-protein,Muscle gain;60;580
+Lemon Garlic Salmon;salmon,garlic,lemon,olive oil;bake salmon with lemon and garlic;Halal,High-protein,Weight loss;18;300
+Beef Mushroom Rice;beef,mushroom,rice;stir fry beef and mushrooms then mix with rice;Halal,Maintenance;25;520
+Creamy Salmon Pasta;pasta,salmon,cream,garlic;cook pasta and mix with creamy salmon;Halal,Maintenance;25;540
+Beef Spinach Skillet;beef,spinach,garlic;cook beef then add spinach;Halal,High-protein,Muscle gain;15;480
+Salmon Spinach Salad;salmon,spinach,lemon;mix baked salmon with fresh spinach;Halal,Low-calorie,Weight loss;10;260
+Ground Beef Rice Bowl;ground beef,rice,onion;cook beef and serve over rice;Halal,High-protein,Maintenance;20;510
+Salmon Sweet Potato Plate;salmon,sweet potato,garlic;bake salmon and potatoes;Halal,Maintenance;30;450
+Beef Pepper Stir Fry;beef,pepper,soy sauce;stir fry beef and peppers;Halal,High-protein,Muscle gain;14;470
+Herb Baked Salmon;salmon,dill,olive oil,salt;bake salmon with herbs;Halal,Low-calorie,Weight loss;15;280
+Beef Lentil Mix;beef,lentils,onion;cook beef and mix with lentils;Halal,High-protein,Maintenance;35;540
+Salmon Broccoli Pasta;pasta,salmon,broccoli;cook pasta and mix with salmon and broccoli;Halal,Maintenance;25;500
+Beef Veggie Skillet;beef,carrot,onion,garlic;cook beef with vegetables;Halal,High-protein,Muscle gain;20;520
+Crispy Salmon Bites;salmon,olive oil,lemon;pan sear salmon pieces;Halal,High-protein,Maintenance;8;310
+Beef Cabbage Stew;beef,cabbage,carrot;slow cook beef with cabbage;Halal,High-protein,Maintenance;55;480
+Salmon Quinoa Plate;salmon,quinoa,lemon;bake salmon and serve with quinoa;Halal,Gluten-free,Maintenance;22;440
+Beef Garlic Roast;beef,garlic,salt,pepper;roast beef with garlic;Halal,High-protein,Muscle gain;50;620
+Zesty Salmon Wrap;salmon,lettuce,yogurt;wrap cooked salmon in lettuce;Halal,Low-calorie,Weight loss;12;260
+Beef Bean Bowl;beef,beans,garlic,onion;cook beef and beans together;Halal,High-protein,Maintenance;25;510
+Creamy Salmon Soup;salmon,cream,onion;boil salmon and add cream;Halal,Maintenance;20;380
+Beef Potato Mash;beef,potato,garlic;cook beef and serve over mashed potato;Halal,High-protein,Muscle gain;30;590
+Salmon Lentil Salad;salmon,lentils,lemon,spinach;mix baked salmon with lentils;Halal,Gluten-free,Maintenance;20;390
+Beef Tomato Rice;beef,tomato,rice;cook beef with tomato and mix with rice;Halal,Maintenance;25;470
+Salmon Herb Rice;salmon,rice,parsley;serve baked salmon on rice;Halal,Maintenance;25;480
+Beef Garlic Pasta;pasta,beef,garlic,onion;cook pasta and mix with beef;Halal,High-protein,Muscle gain;30;600
+Salmon Chickpea Bowl;salmon,chickpeas,lemon;mix baked salmon with chickpeas;Halal,Maintenance;18;430
+Beef Carrot Rice Bowl;beef,carrot,rice;cook beef and carrots, serve over rice;Halal,Maintenance;24;500
+Citrus Salmon Plate;salmon,orange,garlic;bake salmon with citrus;Halal,Low-calorie,Weight loss;18;270
+Beef Broccoli Plate;beef,broccoli,garlic;stir fry beef with broccoli;Halal,High-protein,Muscle gain;15;460
+Salmon Tomato Pasta;pasta,salmon,tomato;mix cooked salmon into tomato pasta;Halal,Maintenance;25;520
+Beef Chickpea Stew;beef,chickpeas,onion;slow cook beef with chickpeas;Halal,High-protein,Maintenance;45;550
+Creamy Salmon Bowl;salmon,cream,spinach;cook salmon and spinach in cream;Halal,Maintenance;20;420
+Beef Chili Plate;beef,tomato,beans;cook beef with beans and tomato;Halal,High-protein,Muscle gain;35;580
+Sesame Salmon Bites;salmon,soy sauce,garlic;pan fry salmon pieces;Halal,Maintenance;10;300
+Beef Garlic Wrap;beef,lettuce,yogurt;fill lettuce wrap with cooked beef;Halal,High-protein,Weight loss;12;280
+Salmon Sweet Corn Mix;salmon,corn,garlic;mix cooked salmon with corn;Halal,Maintenance;15;370
+Beef Spinach Pasta;pasta,beef,spinach,cumin;cook pasta and mix with beef and spinach;Halal,High-protein,Muscle gain;28;560
+Spiced Salmon Cubes;salmon,paprika,garlic;bake spiced salmon;Halal,Low-calorie,Weight loss;12;250
+Beef Herb Quinoa;beef,quinoa,parsley;mix cooked beef and quinoa;Halal,High-protein,Maintenance;22;470
+Salmon Potato Bake;salmon,potato,garlic;bake potatoes and salmon;Halal,Maintenance;30;440
+Beef White Bean Stew;beef,white beans,onion;cook beef and beans;Halal,High-protein,Muscle gain;40;590
+Lemon Dill Salmon Bowl;salmon,dill,rice;serve baked salmon with rice;Halal,Maintenance;22;480
+Beef Veggie Wrap;beef,lettuce,tomato;wrap beef with vegetables;Halal,High-protein,Maintenance;10;420
+Salmon Spinach Omelette;eggs,salmon,spinach;cook salmon omelette;Halal,High-protein,Maintenance;10;340
+Beef Garlic Noodles;noodles,beef,garlic;mix cooked noodles with beef;Halal,High-protein,Muscle gain;20;570
+Salmon Vegetable Soup;salmon,carrot,broth,cabbage;boil vegetables and salmon;Halal,Low-calorie,Weight loss;25;210
+Beef Lentil Bowl;beef,lentils,garlic;cook beef and lentils together;Halal,High-protein,Maintenance;30;530
