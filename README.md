@@ -3,11 +3,11 @@
 
 # Features
 
-Find recipes matching your available ingredients
-Filter by dietary goals (weight loss, muscle gain, maintenance)
-Support for dietary restrictions (vegan, halal, gluten-free)
-Exclude recipes with allergens
-Add and browse recipes
+Find recipes matching your available ingredients\n
+Filter by dietary goals (weight loss, muscle gain, maintenance)\n
+Support for dietary restrictions (vegan, halal, gluten-free)\n
+Exclude recipes with allergens\n
+Add and browse recipes\n
 
 # Compilation
 gcc main.c userinput.c recipes.c -o SMA
